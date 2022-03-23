@@ -1,14 +1,14 @@
 {
-    "name": "zefy/laravel-sso",
+    "name": "nnphat6492/laravel-sso",
     "description": "Simple PHP SSO integration for Laravel",
     "keywords": ["laravel", "sso", "authentication", "login"],
-    "homepage": "https://github.com/zefy/laravel-sso",
+    "homepage": "https://github.com/nnphat6492/laravel-sso",
     "license": "MIT",
     "authors": [
       {
-        "name": "Martynas Žaliaduonis",
-        "email": "m.zaliaduonis@gmail.com",
-        "homepage": "https://github.com/zefy",
+        "name": "Phat Nguyen",
+        "email": "nnphat6492@gmail.com",
+        "homepage": "https://github.com/nnphat6492",
         "role": "Developer"
       }
     ],
