@@ -23,7 +23,7 @@ return [
      |
      */
 
-    'usersModel' => \App\User::class,
+    'usersModel' => \App\Model\User::class,
     'brokersModel' => Zefy\LaravelSSO\Models\Broker::class,
 
     // Table used in Zefy\LaravelSSO\Models\Broker model
